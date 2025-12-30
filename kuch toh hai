@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For You Baby</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: monospace;
+      text-align: center;
+      padding-top: 80px;
+    }
+    button {
+      background: none;
+      border: 1px solid white;
+      color: white;
+      padding: 15px 40px;
+      margin: 10px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>WELCOME, PLAYER 🤍</h1>
+<p>Choose your path</p>
+
+<button onclick="location.href='start.html'">▶ Start</button><br>
+<button onclick="location.href='memories.html'">▶ Memories</button><br>
+<button onclick="location.href='secret.html'">▶ Secret</button>
+
+</body>
+</html>
